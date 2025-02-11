@@ -46,9 +46,9 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Frontend Dev
 
 ## 💬 Let's Connect!
 
-- **LinkedIn**: [LinkedIn](https://linkedin.com/in/christophertønnesland)
-- **Email**: [Mail](mailto:christopher.tonnesland@gmail.com)
-- **FaceBook**: [FaceBook](https://www.facebook.com/7oSkaaa)
+- <a href="mailto:christopher.tonnesland@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+- <a href="https://linkedin.com/in/christopher tønnesland"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+- <a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 ---
 
