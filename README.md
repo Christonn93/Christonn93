@@ -1,4 +1,4 @@
-<!--START_SECTION:waka-->
+
 # 👨‍💻 Hi, I'm Christopher Tønnesland - Frontend Developer
 
 Welcome to my GitHub profile! I'm a passionate and results-driven **Frontend Developer** with expertise in **React**, **TypeScript**, **JavaScript**, and modern web development tools and frameworks. I enjoy solving problems and creating intuitive user interfaces that delight users. I’m constantly learning and staying up-to-date with the latest trends in technology.
@@ -35,9 +35,8 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Frontend Dev
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christonn93&layout=compact&show_icons=true&theme=dark)
 
 ### Wakatime
-
-[![wakatime](https://wakatime.com/badge/user/0669e8e8-365e-41fd-adda-8245b2fd3d0a.svg)](https://wakatime.com/@0669e8e8-365e-41fd-adda-8245b2fd3d0a)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🚀 Featured Projects
@@ -57,4 +56,4 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Frontend Dev
 I am actively looking for opportunities to contribute to exciting projects and grow professionally. If you're interested in collaborating or want to discuss potential job openings, feel free to reach out.
 
 ---
-<!--END_SECTION:waka-->
+
