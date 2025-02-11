@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Frontend Dev
 
 ### Github
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?christonn93&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?christonn93&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christonn93&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christonn93&show_icons=true&theme=dark)
 
 ### Wakatime
 
