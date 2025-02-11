@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Frontend Dev
 
 ## 💬 Let's Connect!
 
-- **LinkedIn**: [LinkedIn](https://linkedin.com/in/christopher tønnesland)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/christophertønnesland)
 - **Email**: [Mail](mailto:christopher.tonnesland@gmail.com)
 - **FaceBook**: [FaceBook](https://www.facebook.com/7oSkaaa)
 
